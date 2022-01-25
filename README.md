@@ -1,41 +1,10 @@
-<p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
-</p>
-<div align="center">
-
-# EatKano
-
-_🦌 网页小游戏 🥛_
-
-</div>
-
-
 ## 简介
-
-小游戏：吃掉小鹿乃
-
-浏览量超10,000,000+
-
-线上版本:https://xingye.me/game/eatkano/index.php
-
-Github Page:https://arcxingye.github.io/EatKano/index.html
-
-## 可选功能
-
-简易排行榜(日/周/月)
-
-需导入并配置数据库，信息填进conn.php
-
-如启用务必更换密钥及添加一些安全防范代码
-
-以及对index.js进行混淆加密压缩
-
-不需要排行榜把PHP文件都扔掉即可
-
-## 其它事项
-
-点下star吧~
-
-欢迎修改和续写，需保留跳转此仓库的开源按钮
-
-如整成自己想要的吃掉xxx，可以Fork一份改下图和字，并在github pages运行
+小游戏：迫害田鹏辉
+我宣布田亚辉是我儿子
+宋美丹被我一牛子干飞了
+## 游戏
+快速游玩：https://moci114514.github.io/XiangYongJie114514/
+## 批注
+教子有方热线；致电田亚辉13845533373
+田鑫然一家无可幸免
+田鑫然是黑龙江绥化市绥棱县最猖狂的一条哈巴狗
